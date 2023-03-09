@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog
-import os
 from tkinter import messagebox
+import os
 
 class VideoClipper:
 
